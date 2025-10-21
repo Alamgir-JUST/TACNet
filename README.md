@@ -16,3 +16,17 @@ TACNet is a novel deep learning framework designed for intrusion detection in Io
   - TabularIoTAttack-2024
 - Supports metrics logging: Accuracy, Precision, Recall, F1-Score.
 - Includes adversarial attack evaluation (FGSM & PGD).
+
+## Architecture of the Proposed Approach
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/TACNet/blob/4ad5373fbb27db8ad5930cb59de69623d12534ee/Architectural%20Diagrm.png"/> </p>
+
+## Algorithm of the Proposed Approach
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/TACNet/blob/4ad5373fbb27db8ad5930cb59de69623d12534ee/Algorithm.png"/> </p>
+
+## Contact
+Md. Alamgir Hossain,
+MSc in ICT, IICT, BUET; BSc in CSE, JUST. 
+Director, Skill Morph Research Lab., Skill Morph, Dhaka, Bangladesh
+Mail: alamgir.cse14.just@gmail.com
