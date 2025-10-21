@@ -30,3 +30,5 @@ Md. Alamgir Hossain,
 MSc in ICT, IICT, BUET; BSc in CSE, JUST. 
 Director, Skill Morph Research Lab., Skill Morph, Dhaka, Bangladesh
 Mail: alamgir.cse14.just@gmail.com
+
+Google Scholar: https://scholar.google.com/citations?user=P-_d2XsAAAAJ&hl=en&oi=sra
