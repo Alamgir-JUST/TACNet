@@ -25,6 +25,14 @@ TACNet is a novel deep learning framework designed for intrusion detection in Io
 
 <p align="center"> <img src="https://github.com/Alamgir-JUST/TACNet/blob/4ad5373fbb27db8ad5930cb59de69623d12534ee/Algorithm.png"/> </p>
 
+
+## Citation
+
+If you use this code or reference this project in your work, please cite the following paper:
+
+**Ghosh,Kingkar Prosad**; **Hasan, Mehedi**; **Robin, Md. Towhidul Islam**; **Hossain, Md. Alamgir**; **Islam, Md. Samiul** (2025). *A novel deep learning framework with temporal attention convolutional networks for intrusion detection in IoT and IIoT networks*. Doi: https://doi.org/10.1038/s41598-025-32697-1. 
+
+
 ## Contact
 Md. Alamgir Hossain,
 MSc in ICT, IICT, BUET; BSc in CSE, JUST. 
